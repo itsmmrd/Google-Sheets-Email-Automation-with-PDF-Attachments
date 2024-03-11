@@ -19,7 +19,7 @@ Before using this script, make sure you have the following:
 2. Open the script editor by clicking on `Extensions` -> `Apps Script`.
 3. Paste the provided script into the script editor.
 4. Replace `Sheet1` with the name of your sheet.
-5. Replace `YOU_PDF_ID_UPLOADED_ON_GOOGLE_DRIVE` with the ID of your PDF file.
+5. Replace `YOU_PDF_ID_UPLOADED_ON_GOOGLE_DRIVE` with the ID of your PDF file. You can find PDF id by its URL when you want to share it, it is between /d/ and /view e.g. https://drive.google.com/file/d/YOUR_PDF_ID/view?usp=sharing
 6. Save the script.
 
 ## Usage
