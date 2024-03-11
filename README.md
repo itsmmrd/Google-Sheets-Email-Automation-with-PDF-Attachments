@@ -1,6 +1,6 @@
 # Google Sheets Email Script with PDF Attachment
 
-This Google Apps Script is designed to send emails with PDF attachments using data from a Google Sheet.
+This Google Apps Script is designed to send emails to several recipients with PDF attachments using data from a Google Sheet which contains the email address of the receiver, email text, name of the receiver, and email subject.
 
 ## Introduction
 
